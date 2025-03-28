@@ -269,3 +269,17 @@ footer {
         margin-top: 5px;
     }
 }
+.formation:hover{
+    background-color: #c2c2c2
+
+}
+.stages :hover{
+    background-color: #c2c2c2
+}
+.experience :hover{
+     background-color: #c2c2c2
+}
+a{
+    color: white;
+    text-decoration: none;
+}
